@@ -1,6 +1,8 @@
 [test]
-54.89.185.153 ansible_connection=ssh        ansible_user=ec2-user
+54.235.55.104 ansible_connection=ssh        ansible_user=ec2-user
 [stage]
 3.95.212.60 ansible_connection=ssh ansible_user=ec2-user
 [private]
 172.31.31.104 ansible_connection=ssh ansible_user=ec2-user
+[students]
+54.144.220.49 ansible_connection=ssh ansible_user=ubuntu
